@@ -36,7 +36,7 @@ dependence modeling in high-dimensional biological data.
 My dissertation develops a comprehensive benchmarking framework for bulk RNA-seq 
 simulation methods, evaluating tools across marginal fidelity, dependence 
 structure, multivariate geometry, and network topology. I have shown that marginal 
-fidelity alone is insufficient for trustworthy simulation — dependence preservation 
+fidelity alone is insufficient for trustworthy simulation, dependence preservation 
 is critical for downstream inference including PCA, clustering, and differential 
 expression analysis.
 
