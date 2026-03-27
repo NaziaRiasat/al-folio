@@ -27,8 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in Statistics at North Dakota State University (NDSU), 
+advised by [Dr. Megan Orr]https://www.ndsu.edu/statistics/faculty_staff. My research sits 
+at the intersection of computational genomics, statistical machine learning, and 
+generative AI evaluation — with a focus on RNA-seq simulation benchmarking and 
+dependence modeling in high-dimensional biological data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My dissertation develops a comprehensive benchmarking framework for bulk RNA-seq 
+simulation methods, evaluating tools across marginal fidelity, dependence 
+structure, multivariate geometry, and network topology. I have shown that marginal 
+fidelity alone is insufficient for trustworthy simulation — dependence preservation 
+is critical for downstream inference including PCA, clustering, and differential 
+expression analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my dissertation, I work on problems spanning phylogenetic network modeling, 
+genealogical inference, and the failure modes of large language models in 
+data-constrained scientific settings. I have collaborated with researchers at 
+ICERM (Brown University), IPAM (UCLA), and the University of Hawaiʻi at Mānoa.
+
+My work has been presented at ICLR 2026, MATH-AI 2026, ICERM, IPAM, and NDSU. 
+I am currently on the job market for postdoctoral positions in computational 
+biology, biostatistics, and statistical machine learning.
